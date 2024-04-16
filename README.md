@@ -1,1 +1,5 @@
-The Student Online Voting System is a web-based application designed to facilitate seamless and secure voting processes for student elections and opinion polls. With its intuitive user interface and robust features, this system provides an efficient platform for students to participate in democratic decision-making within educational institutions.
+A student online voting system is a 
+digital platform designed to facilitate 
+the voting process for students in 
+educational institutions such as 
+schools, colleges, and universities.
